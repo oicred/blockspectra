@@ -58,7 +58,7 @@ BlockSpectra is made available under the [MIT License](LICENSE.md).
 
 ### Acknowledgments
 
-- Thank contributors, sponsors, and any third-party resources or libraries used.
+- [Mina Protocol](https://minaprotocol.com/)
 
 ### Contact
 
