@@ -26,6 +26,11 @@ git clone https://github.com/oicred/blockspectra.git
 cd blockspectra
 # Follow setup instructions
 ```
+To deploy the project: [Mina Protocol - How to deploy on Mina](https://docs.minaprotocol.com/zkapps/tutorials/deploying-to-a-network/) 
+
+```bash
+zk deploy
+```
 
 ### Installation
 

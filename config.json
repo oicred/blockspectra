@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "berkmad": {
+      "networkId": "testnet",
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/berkmad.json",
+      "feepayerKeyPath": "C:\\Users\\demo/.cache/zkapp-cli/keys/test-pay.json",
+      "feepayerAlias": "test-pay",
+      "fee": "0.1",
+      "smartContract": "Block"
+    }
+  }
 }
