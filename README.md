@@ -57,6 +57,12 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for
 
 If you encounter any issues or require assistance, please file an issue on the GitHub repository.
 
+[Q1]
+> Send to network
+> Failed to send transaction to relayer. Errors: Couldn't send zkApp command: Set verification-key permission is updated to an incompatible version
+Anwer: Change to devnet https://api.minascan.io/node/devnet/v1/graphql
+
+
 ### License
 
 BlockSpectra is made available under the [MIT License](LICENSE.md).
